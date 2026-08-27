@@ -1,36 +1,46 @@
-# Hi, I'm Aditya.
+<div align="center">
+  <h1>Aditya Cakti Chandrasa</h1>
+  <p><b>Electrical Engineering > Data Architecture & Industrial IoT</b></p>
+  
+  <a href="https://adityac.dev">
+    <img src="https://img.shields.io/badge/Portfolio-adityac.dev-0a0a0a?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/adityachandrasa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aditchandrasa1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</div>
 
-**Electrical Engineering ➔ Data Architecture & Industrial IoT**
+<br />
 
-I am an engineering student focused on bridging the gap between physical infrastructure and scalable software architecture. I specialize in building data pipelines, predictive machine learning models, and full-stack operational dashboards to eliminate system bottlenecks and optimize industrial workflows. 
+I am an engineering student focused on bridging the gap between physical infrastructure and scalable software architecture. I specialize in building data pipelines, predictive machine learning models, and full-stack operational dashboards to eliminate system bottlenecks and optimize industrial workflows. My approach combines hardware logic with software scalability, transitioning physical operations into data-driven ecosystems.
 
-My approach combines hardware logic with software scalability, transitioning physical operations into data-driven ecosystems.
+## Technical Arsenal
 
-### 🛠️ Tech Stack & Arsenal
+| Domain | Technologies |
+| :--- | :--- |
+| **Data & ML** | ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Web Architecture** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **Hardware & IoT** | ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white) |
+| **Infrastructure** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) |
 
-*   **Data Engineering & ML:** Python (Pandas, NumPy), Scikit-Learn
-*   **Web Architecture:** Python, REST APIs, HTML/CSS, Vanilla JS
-*   **Hardware & Edge Computing:** C/C++, ESP32, PID Control Logic, Sensor Calibration
-*   **Infrastructure & Tools:** Git/GitHub, VS Code, Google Workspace (Advanced Automations)
+## Featured Architecture
 
----
+*   **SITL PID Simulator:** Engineered a Software-in-the-Loop simulation environment using Next.js and Plotly.js to evaluate closed-loop feedback systems via real-time Euler Integration.
+*   **MOTOSENSE Vibration Monitor:** Developed a Raspberry Pi IoT system utilizing an ADXL345 sensor for real-time edge processing and cloud synchronization via InfluxDB to track mechanical health.
+*   **Spatial Metal Field Display:** Built an LC oscillator-based hardware detector utilizing ESP32 PCNT and digital signal processing to quantify electromagnetic anomalies.
+*   **Futura 2026 Platform:** Architected a full-stack Next.js 16 and Supabase platform to handle event registrations, scheduling, and database management.
 
-### Featured Architecture & Projects
-
-#### 1. Predictive Risk Profiler 
-*Machine Learning / Data Analytics*
-*   **Architecture:** Python, Scikit-Learn, Exploratory Data Analysis (EDA)
-*   **Impact:** Developed a predictive model to analyze operational data and detect early anomalies, building the foundation for proactive system maintenance. 
-
----
-
-### Current Operations
+## Current Operations
 
 *   Executing end-to-end data pipelines for high-volume data extraction without latency.
-*   Scaling up full-stack web architecture and database management.
-*   Managing brand identity, data tracking, and operational automation for an F&B business.
+*   Developing high-performance static web architectures focusing on optimal load speeds and clean code structure.
+*   Managing brand identity, data tracking, and operational automation for a Food & Beverage business.
 
-### Connect with Me
+## Telemetry
 
-*   **LinkedIn:** [Aditya Cakti Chandrasa](https://www.linkedin.com/in/adityachandrasa/)
-*   **Email:** [aditchandrasa1@gmail.com](mailto:aditchandrasa1@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Legorvey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=f97316&text_color=ffffff" alt="Aditya's GitHub Stats" />
+</div>
