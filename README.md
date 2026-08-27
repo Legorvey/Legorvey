@@ -39,8 +39,24 @@ I am an engineering student focused on bridging the gap between physical infrast
 *   Developing high-performance static web architectures focusing on optimal load speeds and clean code structure.
 *   Managing brand identity, data tracking, and operational automation for a Food & Beverage business.
 
-## Telemetry
+## Telemetry & System Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Legorvey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=f97316&text_color=ffffff" alt="Aditya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Legorvey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=f97316&text_color=ffffff" alt="Aditya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legorvey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=f97316&text_color=ffffff" alt="Top Languages" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Legorvey&theme=tokyonight&hide_border=true&background=0a0a0a&ring=f97316&fire=f97316&currStreakLabel=f97316" alt="GitHub Streak" />
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <p><code>sys.exit("Translating physics into data.")</code></p>
+  <img src="https://komarev.com/ghpvc/?username=Legorvey&color=f97316&style=flat-square&label=SYSTEM+PINGS" alt="Profile Views" />
 </div>
