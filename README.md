@@ -57,6 +57,5 @@ I am an engineering student focused on bridging the gap between physical infrast
 ---
 
 <div align="center">
-  <p><code>sys.exit("Translating physics into data.")</code></p>
   <img src="https://komarev.com/ghpvc/?username=Legorvey&color=f97316&style=flat-square&label=SYSTEM+PINGS" alt="Profile Views" />
 </div>
